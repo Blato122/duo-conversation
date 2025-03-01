@@ -1,0 +1,986 @@
+French word: connaissent, English translations: know
+French word: genre, English translations: kind, gender, type, genre, sort
+French word: sûr, English translations: safe, sure
+French word: groupe, English translations: band, group
+French word: meilleur, English translations: better, best
+French word: connaît, English translations: knows, know
+French word: tort, English translations: wrong, fault, mistake
+French word: raison, English translations: reason, right
+French word: désolé, English translations: sorry
+French word: connaissez, English translations: know
+French word: tableau, English translations: painting
+French word: connaissons, English translations: know
+French word: pas du tout, English translations: not at all
+French word: chinois, English translations: Chinese
+French word: allemand, English translations: German
+French word: série, English translations: TV series, series, set
+French word: d'accord, English translations: okay
+French word: super, English translations: great, great!, super, awesome, four-star (petrol), high-octane gasoline, supermarket
+French word: mauvais, English translations: bad, wrong
+French word: penser, English translations: thinking, thought, think, remember, figured
+French word: connais, English translations: know
+French word: actrice, English translations: actress
+French word: film, English translations: movie, film
+French word: préféré, English translations: favorite
+French word: acteur, English translations: actor
+French word: tout le monde, English translations: everyone
+French word: inviter, English translations: to invite
+French word: pique-nique, English translations: picnic
+French word: fête, English translations: festival, party, holiday, celebrate
+French word: apporter, English translations: to bring, bring, bringing, deliver
+French word: savoir, English translations: to know, (to) know how to, knowledge, body of knowledge, knew, learning
+French word: sais, English translations: know, can, know how
+French word: peindre, English translations: to paint
+French word: aimerais, English translations: would like, would like to
+French word: guitare, English translations: guitar
+French word: piano, English translations: piano
+French word: si, English translations: if, so, yes, such, whereas, whether
+French word: peuvent, English translations: can, may
+French word: vois, English translations: are seeing, see, am seeing
+French word: pouvons, English translations: can, may
+French word: librairie, English translations: bookstore
+French word: occupé, English translations: in use, busy, busier
+French word: rien, English translations: not ... anything, nothing, anything
+French word: jamais, English translations: never, ever
+French word: bibliothèque, English translations: library, bookcase
+French word: copain, English translations: friend, boyfriend
+French word: copine, English translations: girlfriend, friend
+French word: basket, English translations: basketball, sneaker
+French word: jouer, English translations: to play, (to) act, (to) apply, (to) back, (to) be at stake, (to) be loose, (to) be performed, (to) be played, (to) be played out, (to) be shown, (to) bet on, (to) gamble, (to) matter, (to) move, (to) perform, (to) put on, (to) risk, (to) show, (to) stake, (to) to hang in the balance, hang in the balance, played, plays
+French word: tennis, English translations: tennis
+French word: football, English translations: soccer
+French word: football américain, English translations: football
+French word: match, English translations: match, game
+French word: devons, English translations: have to, need to, must, have got to
+French word: doivent, English translations: have to, must, supposed
+French word: lever, English translations: raise, lift
+French word: adulte, English translations: adult
+French word: peut, English translations: can, may
+French word: préparer, English translations: to prepare, (to) prepare for, (to) plan, (to) dress, (to) get ready, get (sth) ready, makes, set
+French word: moins le quart, English translations: a quarter to, quarter to
+French word: doit, English translations: needs to, has to, must, owes, has got to
+French word: promener, English translations: walk, to walk, walking, take for a walk
+French word: le week-end, English translations: on the weekends
+French word: avant de, English translations: before
+French word: qu'est-ce qu', English translations: what
+French word: lisent, English translations: read, are reading
+French word: font, English translations: is, makes, are doing, make, go, take, leave, do, don't, does, are making, doing, deliver
+French word: lisons, English translations: read, are reading
+French word: levons, English translations: raise
+French word: promenons, English translations: walk, take for a walk
+French word: le vendredi, English translations: on Fridays, friday
+French word: le lundi, English translations: on Mondays
+French word: qu'est-ce que, English translations: what
+French word: lève, English translations: raises, raise, lift
+French word: promène, English translations: take for a walk, walk, take ... for a walk, walks, takes for a walk
+French word: quelles, English translations: what a, which, what
+French word: à pied, English translations: on foot
+French word: célèbre, English translations: famous
+French word: restes, English translations: stay, leftovers, are staying
+French word: reste, English translations: stay, am staying, is staying, remain, stays, remains, rest
+French word: tournez, English translations: are turning, turn, film, are filming
+French word: arrêt, English translations: stop
+French word: tout droit, English translations: straight
+French word: puis, English translations: then, may (I), next
+French word: avenue, English translations: avenue
+French word: entre, English translations: between, enter, enters, among, go inside, go into, goes inside, goes into, start, starts, walk into, walks into
+French word: tourne, English translations: am turning, films, is turning, turns, is filming, film, turn
+French word: tournes, English translations: are turning, turn, break
+French word: à côté, English translations: next
+French word: marron, English translations: brown, bent, chestnut, clout, conker, crooked, horse chestnut, runaway, thump, unlicensed, unqualified
+French word: même, English translations: same, even, so, self, very
+French word: mêmes, English translations: same
+French word: botte, English translations: boot
+French word: nouvel, English translations: new, new employee, new student, (once) again, new recruit, news, original, short story
+French word: celles-là, English translations: those (fem), those ones (UK)
+French word: celles-ci, English translations: these
+French word: jaune, English translations: yellow
+French word: porter, English translations: wearing, carrying, wear, to wear, to carry, carry, worn
+French word: celle-là, English translations: that one
+French word: lunettes, English translations: glasses, spectacles, eyeglasses
+French word: bel, English translations: handsome, beautiful, nice, good-looking
+French word: nouvelle, English translations: new, piece of news, news
+French word: chemise, English translations: shirt
+French word: ceux-ci, English translations: these
+French word: ceux-là, English translations: those ones
+French word: manteaux, English translations: coats
+French word: chapeaux, English translations: hats
+French word: beaux, English translations: handsome, beautiful, good-looking
+French word: nouveaux, English translations: new
+French word: eaux, English translations: water, waters
+French word: manteau, English translations: coat, overcoat
+French word: celui-ci, English translations: this one
+French word: nouveau, English translations: new, new employee, new student, (once) again, new recruit, original
+French word: chapeau, English translations: hat
+French word: celui-là, English translations: that one
+French word: noir, English translations: black, dark
+French word: là-bas, English translations: over there
+French word: là, English translations: there, here, then
+French word: faisons, English translations: let's do, are doing, let's take, make, do, let's make, don't, does, come, are making, let's bake, draw, doing, deliver
+French word: soupe, English translations: soup
+French word: crêpe, English translations: crepe, pancake
+French word: pas de, English translations: no
+French word: quarante, English translations: forty
+French word: environ, English translations: about, in the region of, in the vicinity of, approximately, around, close to, more or less, so
+French word: trente, English translations: thirty, 30
+French word: vingt, English translations: twenty, 20
+French word: biscuit, English translations: cookie, biscuit (UK)
+French word: pas de viande, English translations: no meat
+French word: riz, English translations: rice
+French word: viande, English translations: meat
+French word: nourriture, English translations: food
+French word: glace, English translations: ice cream
+French word: achetons, English translations: let's buy, buy, are buying, let's get
+French word: pommes de terre, English translations: potatoes
+French word: préférons, English translations: (let us) prefer, prefer
+French word: poisson, English translations: fish
+French word: marché, English translations: market, walked, worked
+French word: œufs, English translations: eggs
+French word: les courses, English translations: the groceries
+French word: préférer, English translations: prefer, to prefer
+French word: tomate, English translations: tomato, tomatoes
+French word: acheter, English translations: buy, to buy, buying, get
+French word: moins de, English translations: less
+French word: sent, English translations: smells, smells like, feel, feels, smell
+French word: plus de, English translations: more
+French word: sentent, English translations: smell, feel
+French word: pas assez, English translations: not enough
+French word: dormez, English translations: sleep, (you-plural) lie idle!, (you-plural) sleep!, (you-plural) lie idle/are lying idle, (you-plural) sleep/are sleeping, sleeping
+French word: parce qu', English translations: because
+French word: sentez, English translations: smell, feel, are feeling
+French word: sentons, English translations: feel, are feeling
+French word: parce que, English translations: because
+French word: sont-elles, English translations: are they
+French word: triste, English translations: sad, sadder
+French word: stressé, English translations: stressed
+French word: malade, English translations: sick
+French word: fatigué, English translations: tired
+French word: dormir, English translations: to sleep
+French word: faim, English translations: hunger
+French word: soif, English translations: thirst
+French word: assez, English translations: enough, quite, pretty, rather
+French word: sommeil, English translations: sleep
+French word: avoir, English translations: to have
+French word: mal, English translations: bad, badly, wrong, evil, poorly
+French word: vraiment, English translations: really, truly
+French word: sens, English translations: direction, meanings, smell, feel, meaning, sense, directions
+French word: court, English translations: run, jogs, is running, runs, short, flow
+French word: couleur, English translations: color
+French word: jambe, English translations: leg
+French word: long, English translations: long
+French word: sympa, English translations: nice
+French word: nez, English translations: nose, headland
+French word: œil, English translations: eye
+French word: yeux, English translations: eyes
+French word: bouche, English translations: mouth, lips, covers
+French word: visage, English translations: face
+French word: bras, English translations: arm
+French word: pied, English translations: foot
+French word: droit, English translations: right, law, straight
+French word: oreille, English translations: ear
+French word: qu', English translations: only, that, than, as, may, what, how, other than, which
+French word: papa, English translations: dad, father, daddy
+French word: maman, English translations: mom, mum, mommy, mother, mummy
+French word: moins, English translations: fewer, less
+French word: riche, English translations: rich
+French word: mince, English translations: thin, faint, shoot
+French word: vieux, English translations: old
+French word: vieil, English translations: old
+French word: ciel, English translations: sky, heaven
+French word: printemps, English translations: spring
+French word: décembre, English translations: December
+French word: gris, English translations: gray
+French word: saison, English translations: season
+French word: bleu, English translations: blue, bruise
+French word: novembre, English translations: November
+French word: pleuvoir, English translations: to rain
+French word: neiger, English translations: to snow
+French word: faire, English translations: to do, (to) make, (to) prepare, (to) serve as, makes
+French word: pluie, English translations: rain
+French word: toute la journée, English translations: all day
+French word: mais, English translations: but, yet, although
+French word: neige, English translations: snow, (he/she/it) snows/is snowing, (he/she/it) snows
+French word: pleut, English translations: rains, is raining, rain
+French word: soleil, English translations: sun, Catherine wheel, grand circle, pinwheel, sunflower
+French word: vent, English translations: wind
+French word: nuage, English translations: cloud
+French word: octobre, English translations: October
+French word: dehors, English translations: outside, outside of, apart from
+French word: automne, English translations: fall, autumn
+French word: août, English translations: August
+French word: froid, English translations: cold, callous, coldness, controlled, cool, deadpan, dispassionate, spontaneous, unfriendly
+French word: chaud, English translations: hot, warm, hot / warm, heat, heated, red light, sensitive, strong, turbulent
+French word: fait, English translations: is, makes, made, making, done, make, fact, bake, takes, covers, is having, looks, do, don't, does, equals, is doing, taken, doing, was, dived
+French word: beau, English translations: beautiful, handsome, nice, attractive, fine, good, good-looking, lovely, noble
+French word: en général, English translations: in general, generally
+French word: quart, English translations: quarter, a quarter-litre bottle, a quarter-litre pitcher, beaker (of a quarter-litre capacity), watch
+French word: veillent, English translations: watch
+French word: réveillent, English translations: awake
+French word: dent, English translations: tooth
+French word: coucher, English translations: put ... to bed
+French word: vite, English translations: fast, quickly, rapidly
+French word: préparez, English translations: make, are making, prepare
+French word: cheveux, English translations: hair, hairs
+French word: brosser, English translations: brushing, to brush, brush
+French word: regardons, English translations: look at, look, let's watch, are watching, watch, let's look at
+French word: demie, English translations: thirty, half
+French word: te, English translations: you, yourself, to you, yourselves, of yourself
+French word: se, English translations: themselves, himself, oneself, herself, to each other, itself, themself, at each other, each other
+French word: me, English translations: I, at me, me, to me, myself
+French word: réveiller, English translations: wake up, waking
+French word: miroir, English translations: mirror, glass
+French word: faites-vous, English translations: are you doing, are you (ref to "size"), do you do
+French word: fais-tu, English translations: are you doing
+French word: le soir, English translations: in the evening, at night
+French word: que, English translations: that, what, than, as, those, whom
+French word: d'habitude, English translations: usually
+French word: sport, English translations: sports, exercise, sport
+French word: le matin, English translations: in the morning
+French word: fais, English translations: am making, are doing, done, make, am doing, bake, take, do, don't, does, doing
+French word: toujours, English translations: always, still, anyway
+French word: faites, English translations: made, packed, are doing, done, make, go, do, don't, does, come, are making, prepared, doing, deliver
+French word: bain, English translations: bath
+French word: animaux, English translations: animals, animals'
+French word: voici, English translations: here is, here are, this is, these, these are
+French word: géniaux, English translations: great, fantastic
+French word: juillet, English translations: July
+French word: journaux, English translations: newspapers
+French word: interdit, English translations: prohibited, forbidden, banned, ban
+French word: réception, English translations: front desk, reception
+French word: animal, English translations: animal
+French word: wi-fi, English translations: Wi-Fi
+French word: génial, English translations: brilliant, awesome, great, fantastic, inspired, tough
+French word: non-fumeur, English translations: non-smoking
+French word: mot de passe, English translations: password
+French word: compris, English translations: understood, included, figuring
+French word: mai, English translations: May
+French word: juin, English translations: June
+French word: douche, English translations: shower
+French word: propre, English translations: own, clean
+French word: simple, English translations: simple, straight
+French word: double, English translations: double, pass
+French word: combien de, English translations: how many
+French word: nuits, English translations: nights, night
+French word: télévision, English translations: TV, television
+French word: adresse, English translations: address
+French word: réserver, English translations: to book
+French word: clé, English translations: key
+French word: serviette, English translations: napkin, towel
+French word: joli, English translations: pretty, lovely
+French word: choisissent, English translations: choose, are choosing
+French word: leurs, English translations: their
+French word: finit, English translations: finishes, is finishing, ends, finish, is ending, end up
+French word: leur, English translations: their, them
+French word: choisit, English translations: chooses, is choosing, choose, chose
+French word: finissent, English translations: finish, are finishing, finishing
+French word: idée, English translations: idea, thought
+French word: finissez, English translations: finish, are finishing, finishing
+French word: finissons, English translations: finish, are finishing
+French word: choisissons, English translations: choose, are choosing, let's choose
+French word: dix-neuf, English translations: nineteen
+French word: choisissez, English translations: choose, are choosing
+French word: avril, English translations: April
+French word: date, English translations: date
+French word: besoin de, English translations: need
+French word: choisis, English translations: choose, are choosing, am choosing
+French word: finis, English translations: finish, no more, am finishing, are finishing, finished, finishing, over
+French word: horaire, English translations: schedule, timetable, time, hourly
+French word: dix-huit, English translations: eighteen, 18
+French word: choisir, English translations: to choose, (to) select, go, chose
+French word: jet, English translations: cast
+French word: as besoin, English translations: need
+French word: finir, English translations: to finish, (to) end, (to) complete, (to) run out, (to) use up, drank
+French word: projet, English translations: project, plan
+French word: chef, English translations: chef, boss
+French word: mars, English translations: March, Mars
+French word: seize, English translations: sixteen, 16
+French word: besoin, English translations: need
+French word: dix-sept, English translations: seventeen
+French word: réunion, English translations: Réunion (island), meeting
+French word: salle, English translations: room
+French word: lentement, English translations: slowly
+French word: comprenons, English translations: understand
+French word: apprenons, English translations: are learning, learn, study, are studying
+French word: sac à dos, English translations: backpack
+French word: salle de classe, English translations: classroom
+French word: plus, English translations: more, plus (maths)
+French word: comprend, English translations: includes, understand, include, understands
+French word: apprennent, English translations: are learning, learn, study, are studying
+French word: comprennent, English translations: understand
+French word: est-ce qu', English translations: is, do, does, (no translation), did
+French word: apprend, English translations: learns, is studying, learn, studies, is teaching, teaches, is learning, teaching
+French word: élève, English translations: student
+French word: tout, English translations: everything, all, right, although, any, anything, every, quite, total, very, while
+French word: comprenez, English translations: understand
+French word: est-ce que, English translations: do, did, does, are, is
+French word: apprenez, English translations: learn, study, are studying, are learning
+French word: septembre, English translations: September
+French word: apprends, English translations: are studying, are learning, hear, learn, teach, study, am studying, am learning, studying, are teaching
+French word: comprends, English translations: understand
+French word: matière, English translations: material, subject
+French word: dictionnaire, English translations: dictionary
+French word: examen, English translations: quiz, exam, test
+French word: apprendre, English translations: to learn
+French word: comprendre, English translations: to understand
+French word: cours, English translations: class, course
+French word: leçon, English translations: lesson
+French word: facile, English translations: easy
+French word: difficile, English translations: difficult, hard, challenging
+French word: année, English translations: year
+French word: cet, English translations: this, that, this (before vowel), that (before vowel), these
+French word: été, English translations: been, summer, was, summertime
+French word: faire de la plongée, English translations: to scuba dive
+French word: janvier, English translations: January
+French word: faire du ski, English translations: to ski
+French word: faire un voyage, English translations: to take a trip
+French word: février, English translations: February
+French word: montagne, English translations: mountain, mountains
+French word: hiver, English translations: winter
+French word: temps, English translations: time, weather, tense, stroke
+French word: mois, English translations: month
+French word: lui, English translations: him, her, it, glowed, shone/shined
+French word: passer, English translations: to spend, to pass
+French word: rester, English translations: to stay
+French word: photo, English translations: picture, photo, photograph
+French word: partir, English translations: to leave
+French word: demain, English translations: tomorrow
+French word: voir, English translations: to see
+French word: week-end, English translations: weekend
+French word: prochain, English translations: next, upcoming
+French word: céréales, English translations: cereal
+French word: adorent, English translations: love
+French word: prendre, English translations: getting, make, take, get, having, taking, charge, to have, to take, had, took, to get, have
+French word: yaourt, English translations: yogurt
+French word: fraise, English translations: strawberry
+French word: café au lait, English translations: coffee with milk
+French word: minérale, English translations: mineral
+French word: boit, English translations: is drinking, drinks
+French word: jus d'orange, English translations: orange juice
+French word: l'eau, English translations: water
+French word: confiture, English translations: jam, marmalade, preserve, jelly
+French word: de la brioche, English translations: some brioche
+French word: de la confiture, English translations: jam
+French word: du sucre, English translations: some sugar
+French word: déteste, English translations: hate, hates
+French word: préfères, English translations: prefer
+French word: brioche, English translations: brioche
+French word: beurre, English translations: butter, (I) butter, (you) butter!, (I) butter/am buttering, (I) get plastered, (I) get plastered/am getting plastered, (I) grease [something] with butter, (I) grease [something] with butter/am greasing [something] with butter, (he/she/it) butters, (he/she/it) butters/is buttering, (he/she/it) gets plastered, (he/she/it) gets plastered/is getting plastered, (he/she/it) greases [something] with butter, (he/she/it) greases [something] with butter/is greasing [something] with butter, (you) get plastered!, (you) grease [something] with butter!
+French word: miel, English translations: honey
+French word: du miel, English translations: honey
+French word: préfère, English translations: prefer, prefers
+French word: bois, English translations: drink, are drinking, drinks, am drinking, wood, woods
+French word: détestes, English translations: hate
+French word: du café, English translations: coffee
+French word: du thé, English translations: (some) tea, tea
+French word: au petit déjeuner, English translations: at breakfast
+French word: adore, English translations: loves, love
+French word: du lait, English translations: milk
+French word: nageons, English translations: swim, are swimming
+French word: dessinez, English translations: draw
+French word: nager, English translations: to swim
+French word: dessines, English translations: (you) take shape/are taking shape, (you) design, (you) draw/are drawing, (you) are drawn, (you) draw up, (you) take shape, (you) draw up/are drawing up, (you) draw, (you) design/are designing, draw
+French word: nagent, English translations: swim, are swimming
+French word: nage, English translations: swim, am swimming, swims, is swimming
+French word: dessiner, English translations: to draw
+French word: étudier, English translations: to study
+French word: étudions, English translations: study, are studying
+French word: écouter, English translations: to listen to, to listen
+French word: chanter, English translations: to sing
+French word: chantes, English translations: sing, are singing
+French word: chante, English translations: am singing, sings, sing, is singing
+French word: écoutes, English translations: are listening to, listen to, listen, are listening
+French word: visitez, English translations: are visiting, visit
+French word: visitent, English translations: visit, are visiting
+French word: danse, English translations: am dancing, is dancing, dances, dance, dancing
+French word: danser, English translations: to dance
+French word: danses, English translations: (you) dance/are dancing, dance, dances
+French word: marches, English translations: are walking, steps, walk
+French word: marche, English translations: work, walks, is walking, am walking, step, works, walk, is working, runs
+French word: attendre, English translations: wait for, waiting, wait, expect
+French word: en retard, English translations: late
+French word: pouvez-vous, English translations: can you
+French word: bagage, English translations: luggage, bag
+French word: vol, English translations: theft, flight, robbery
+French word: question, English translations: question
+French word: venez-vous, English translations: are you, do you come
+French word: Afrique, English translations: Africa
+French word: nation, English translations: nation
+French word: quelle, English translations: what an, what a, what, which
+French word: destination, English translations: destination
+French word: nationalité, English translations: nationality
+French word: profession, English translations: profession
+French word: Sénégal, English translations: Senegal
+French word: voyagez-vous, English translations: are you traveling
+French word: venez, English translations: come, are coming
+French word: quel, English translations: which
+French word: prénom, English translations: first name
+French word: nom, English translations: name, last name
+French word: manger, English translations: to eat, eating, eaten
+French word: voulez-vous, English translations: do you want
+French word: boire, English translations: to drink, drinking
+French word: quelque chose, English translations: something
+French word: voyagez, English translations: travel, are traveling
+French word: pouvez, English translations: can, may
+French word: madame, English translations: ma'am, Mrs., Ms.
+French word: excusez-moi, English translations: excuse me
+French word: mademoiselle, English translations: miss
+French word: monsieur, English translations: sir, gentleman, man, Mr
+French word: de rien, English translations: you're welcome
+French word: salle de bain, English translations: bathroom
+French word: trop de, English translations: too much, too many
+French word: trop, English translations: too many, too, too much, very
+French word: sel, English translations: salt
+French word: de l'après-midi, English translations: in the afternoon
+French word: placard, English translations: closet, cupboard, cabinet
+French word: s'il te plaît, English translations: please
+French word: un peu de, English translations: a little
+French word: sucre, English translations: sugar, sugar cube, piece of sugar, cube of sugar
+French word: beaucoup de, English translations: a lot of
+French word: lait, English translations: milk
+French word: plaît, English translations: like, enjoy, pleases
+French word: frigo, English translations: fridge
+French word: du soir, English translations: at night, evenings, p.m
+French word: il est, English translations: he's, it's
+French word: devez, English translations: have to, must, need to
+French word: du matin, English translations: morning, in the morning, a.m.
+French word: horloge, English translations: clock
+French word: rentre, English translations: go back, fits, is going home, goes home, go home, come home, am going home, goes back, returns
+French word: tôt, English translations: early
+French word: tard, English translations: late
+French word: rentrer, English translations: go back, go home to, go home, to return, go
+French word: heure, English translations: time, hour
+French word: sors, English translations: get out, leave, are coming out, are going out, am coming out, take out, go out, am leaving, am going out, get off
+French word: sortir, English translations: to go out
+French word: chez, English translations: to X's place, to X's house, 's, at X's place, to, home, place, at
+French word: midi, English translations: noon
+French word: avant, English translations: before, for, beforehand, ahead of, first, front (n)
+French word: minuit, English translations: midnight
+French word: chambre, English translations: room, bedroom
+French word: habitez-vous, English translations: do you live
+French word: avez-vous, English translations: do you have
+French word: avec qui, English translations: with who
+French word: problème, English translations: problem
+French word: prends-tu, English translations: do you take
+French word: étudiez-vous, English translations: do you study
+French word: travailles-tu, English translations: do you work
+French word: semaine, English translations: week
+French word: vas-tu, English translations: are you going
+French word: sont-ils, English translations: are they, are
+French word: est-il, English translations: is he, is it, did he, is
+French word: belge, English translations: Belgian
+French word: pourquoi, English translations: why
+French word: aimes-tu, English translations: are you fond of, do you love, do you like
+French word: travaillent-elles, English translations: do they work
+French word: parlez-vous, English translations: do you speak/talk
+French word: est-elle, English translations: is it, is she, did she, is
+French word: maintenant, English translations: now, nowadays, today
+French word: êtes-vous, English translations: are you
+French word: québécois, English translations: Quebecois, from Quebec
+French word: voulez, English translations: want
+French word: tous les jours, English translations: every day, daily
+French word: prenez, English translations: are getting, are having, getting, are taking, take, get, have, having
+French word: achetez, English translations: buy, are buying
+French word: baguette, English translations: baguette, wand
+French word: lisez, English translations: read, are reading
+French word: nos, English translations: our
+French word: avez, English translations: have, get
+French word: vos, English translations: your
+French word: allez, English translations: go, are going, come on
+French word: amie, English translations: friend
+French word: notre, English translations: our
+French word: marié, English translations: groom, married
+French word: ami, English translations: friend
+French word: votre, English translations: your
+French word: mariée, English translations: bride, married, got married
+French word: habitez, English translations: live, are living
+French word: ensemble, English translations: together, at the same time, cohesion, complex, coordination, ensemble, group, outfit, set, suit, unison, unity
+French word: aimez, English translations: love (person/pet), like (thing), love, like
+French word: mariés, English translations: married, bride and groom
+French word: étudiez, English translations: study, are studying
+French word: vous êtes, English translations: you're
+French word: parlez, English translations: speak, are speaking, talk, are talking
+French word: cuisinez, English translations: cook, are cooking
+French word: travaillez, English translations: work, are working
+French word: dansez, English translations: dance
+French word: êtes, English translations: are
+French word: vous, English translations: you, yourselves, yourself
+French word: troisième, English translations: third, ninth grade
+French word: visiter, English translations: visiting, to visit, visit
+French word: lieu, English translations: place, premises
+French word: dangereux, English translations: dangerous
+French word: trouver, English translations: to find, find, finding, found
+French word: deuxième, English translations: second
+French word: près, English translations: near, close, closely, almost, nearly
+French word: loin, English translations: far, far away
+French word: pont, English translations: bridge
+French word: route, English translations: road, runs
+French word: près du, English translations: close to the
+French word: près de, English translations: close to
+French word: derrière, English translations: behind, in the back, at the back, back, backside
+French word: habiter, English translations: to live
+French word: meuble, English translations: piece of furniture, softer
+French word: intéressant, English translations: interesting
+French word: immeuble, English translations: apartment building, building
+French word: gauche, English translations: left
+French word: première, English translations: premiere, first, eleventh grade, first one, basic
+French word: tourner, English translations: to turn, turn, (to) turn, (to) turn around, (to) direct, (to) get around, (to) go off, (to) make a film, (to) movie, (to) phrase, (to) revolve, (to) rotate, (to) run, (to) shoot, (to) spin, (to) stir, (to) swing, (to) throw, (to) to film, (to) to revolve, (to) toss, (to) tour, film, going, run, runs, shot, turned
+French word: à gauche, English translations: to the left
+French word: devant, English translations: in front of, ahead of, before
+French word: à droite, English translations: to the right
+French word: marcher, English translations: work, walking, works, walk, to work, to walk, working
+French word: dois, English translations: have to, need to, must, owe, have got to
+French word: aller, English translations: to go, go, going, don't, traveled
+French word: rue, English translations: street
+French word: important, English translations: important
+French word: parler, English translations: speak, to speak, talking, to talk, talk, speaking
+French word: quatorze, English translations: fourteen, 14
+French word: quinze, English translations: fifteen, 15
+French word: ont-ils, English translations: do they have
+French word: peux, English translations: am able to, can, are able to, are allowed to, may
+French word: brun, English translations: dark, dark-haired, brown
+French word: treize, English translations: thirteen
+French word: quel âge, English translations: how old
+French word: douze, English translations: twelve, 12
+French word: onze, English translations: eleven, 11
+French word: qui, English translations: that, whom, who, which, whoever
+French word: as-tu, English translations: do you have
+French word: venons, English translations: come, are coming
+French word: quand, English translations: when
+French word: parlons, English translations: talk, speak, let's talk
+French word: n'est, English translations: isn't
+French word: n', English translations: not
+French word: blond, English translations: blond
+French word: jeune, English translations: young
+French word: quoi, English translations: what
+French word: ne, English translations: not
+French word: viennent, English translations: come, are coming
+French word: pas, English translations: not, no, step
+French word: italien, English translations: Italian
+French word: vient, English translations: is coming, coming, come, comes, is coming over
+French word: viens, English translations: come, are coming, am coming
+French word: japonais, English translations: Japanese
+French word: main, English translations: hand
+French word: canadien, English translations: Canadian
+French word: rouges, English translations: red
+French word: rouge, English translations: red
+French word: dix, English translations: ten, tenth
+French word: achètes, English translations: buy, buying, are buying, get
+French word: t-shirt, English translations: T-shirt
+French word: veste, English translations: jacket
+French word: coûtent, English translations: cost, are
+French word: neuf, English translations: nine, new, 9
+French word: du, English translations: of the, from the, about the, 's, about, by the, from, some
+French word: achète, English translations: am buying, buy, get, is buying, buys, buying
+French word: jupe, English translations: skirt
+French word: combien, English translations: how much, how many
+French word: huit, English translations: eight, eighth
+French word: prix, English translations: fare, price, prizes, prices, award, prize, awards, fares, fee
+French word: coûte, English translations: costs, cost, is
+French word: sept, English translations: seven, 7
+French word: chers, English translations: expensive, fondest
+French word: chères, English translations: expensive
+French word: euro, English translations: euro, euros
+French word: chaussure, English translations: shoe
+French word: sac, English translations: bag
+French word: vêtements, English translations: clothes
+French word: six, English translations: six, 6
+French word: cher, English translations: expensive, dear, a lot (of money), costly, dearly, pricey
+French word: chère, English translations: expensive, dear
+French word: robe, English translations: dress
+French word: pantalon, English translations: pants, pair of pants
+French word: parfois, English translations: sometimes
+French word: samedi, English translations: Saturday
+French word: radio, English translations: radio
+French word: dimanche, English translations: Sunday
+French word: écoute, English translations: listens to, is listening, listen to, listen, listens, listening, am listening, looked
+French word: écoutons, English translations: listen to, listen, are listening to, are listening, let's listen
+French word: jeudi, English translations: Thursday
+French word: dors, English translations: sleeping, sleep, are sleeping, am sleeping
+French word: vendredi, English translations: Friday
+French word: lit, English translations: reads, is reading, bed
+French word: nuit, English translations: night
+French word: mercredi, English translations: Wednesday
+French word: après-midi, English translations: afternoon
+French word: lis, English translations: am reading, read, are reading
+French word: souvent, English translations: often, frequently
+French word: journal, English translations: newspaper, diary, journal, magazine, news, paper
+French word: mardi, English translations: Tuesday
+French word: joue, English translations: cheek, am playing, is acting, is playing, play, acts, plays, act
+French word: après, English translations: after, afterwards, from, next
+French word: jouent, English translations: are playing, are acting, play, act, playing
+French word: soir, English translations: night, evening, evenings
+French word: enfant, English translations: child, kid
+French word: lundi, English translations: Monday
+French word: chaque, English translations: each, every
+French word: regardent, English translations: are watching, look at, watch, are looking at, look
+French word: regarde, English translations: am watching, look at, look, watch, looks, am looking at, watches, is watching, watching
+French word: télé, English translations: TV, television
+French word: jour, English translations: day
+French word: cuisine, English translations: kitchen, cooks, is cooking, (I) cook/am cooking, am cooking, cuisine, dishes
+French word: cuisines, English translations: cook, are cooking, cooking
+French word: bonnes, English translations: well, right, tasty, correct, good
+French word: bons, English translations: well, right, tasty, good, correct
+French word: plat, English translations: dish, flat, still, course
+French word: légume, English translations: vegetable
+French word: bon, English translations: good, right, tasty, correct, kind, nice, proper, valid
+French word: préparent, English translations: make, prepare, are making, are preparing, plan
+French word: bonne, English translations: well, right, tasty, correct, good
+French word: fruit, English translations: fruit, fruits
+French word: pomme, English translations: apple
+French word: banane, English translations: banana
+French word: repas, English translations: meal
+French word: ces, English translations: these, those
+French word: prêt, English translations: ready, loan, prepared
+French word: prépares, English translations: make, making, are making, prepare
+French word: prête, English translations: is lending, lending, am lending, lend, ready, lends
+French word: prépare, English translations: is making, makes, am making, making, make, prepare, cook, does, am preparing, preparing
+French word: gâteau, English translations: cake, biscuit
+French word: cette, English translations: this, that
+French word: préparons, English translations: make, let's make, are making, prepare
+French word: déjeuner, English translations: to have lunch, lunch
+French word: dîner, English translations: dinner, to have dinner
+French word: prennent, English translations: are getting, are having, getting, are taking, take, get, have
+French word: prenons, English translations: let's take, are having, getting, are taking, take, get, let's have, taking, use, have
+French word: petit déjeuner, English translations: breakfast
+French word: œuf, English translations: egg
+French word: matin, English translations: morning
+French word: venir, English translations: to come, (to) come, comes, turn
+French word: nu, English translations: naked
+French word: utilise, English translations: is using, am using, use, uses
+French word: utilises, English translations: use, are using
+French word: travailler, English translations: to work
+French word: numéro, English translations: number
+French word: téléphone, English translations: phone, call, telephone
+French word: écrivent, English translations: are writing, write, writing
+French word: écrit, English translations: written, is writing, writes, written exam
+French word: e-mail, English translations: email
+French word: portable, English translations: phone, cell phone
+French word: message, English translations: message, text
+French word: sur, English translations: on, on top of, to, about, around, as, by, for, over, upon
+French word: écris, English translations: written, writing, are writing, write, am writing, spell
+French word: lettre, English translations: letter
+French word: stylo, English translations: pen
+French word: ordinateur, English translations: computer
+French word: lègue, English translations: leaves
+French word: bureau, English translations: office, desk, board, desktop, offices, study
+French word: travaillons, English translations: work, are working
+French word: collègue, English translations: colleague, coworker
+French word: usine, English translations: factory
+French word: médecin, English translations: doctor
+French word: chauffeur, English translations: driver
+French word: métier, English translations: occupation
+French word: des, English translations: the, about, to the, of the, from the, of, any, with, some, from, about the
+French word: ouvrent, English translations: are opening, open
+French word: fleur, English translations: flower
+French word: blancs, English translations: white, blank
+French word: ouvrons, English translations: (we) open/are opening, (we) turn on/are turning on, (we) undo/are undoing, open
+French word: blanches, English translations: white, blank
+French word: pièce, English translations: coin, play, room, piece
+French word: chaise, English translations: chair
+French word: salon, English translations: salon, living room
+French word: ouvres, English translations: (you) initiate/are initiating, (you) draw back/are drawing back, (you) turn on/are turning on, (you) part/are parting, opening, (you) open up/are opening up, (you) undo/are undoing, cut, (you) open the door/are opening the door, (you) open/are opening, (you) cut open/are cutting open, (you) blow open/are blowing open, open
+French word: blanche, English translations: white, blank
+French word: être, English translations: to be, being, looked, feel, were, having, felt, had, feels, be, was, are
+French word: blanc, English translations: white, white (ball), white wine, Caucasian, Tipp-Ex, White Out, blank, brandy, correction fluid, gap, glass of white wine, half note, horse, household linen, lull, minim, powdery mildew, smack, snow, white man/woman, white meat, white paint, white part, white powder, white-out
+French word: ouvre, English translations: is opening, opens, open, am opening, opening
+French word: fenêtre, English translations: window
+French word: porte, English translations: has on, am wearing, is wearing, door, gate, wears, is carrying, carrying, wear, carry, have on
+French word: gentilles, English translations: kind
+French word: gentille, English translations: kind
+French word: livres, English translations: pounds, books, deliver
+French word: vache, English translations: cow
+French word: gentil, English translations: kind
+French word: gentils, English translations: kind
+French word: il y a, English translations: there is
+French word: voisin, English translations: neighbor
+French word: arbre, English translations: tree
+French word: veulent, English translations: want
+French word: château, English translations: castle, manor (house), chateau, mansion
+French word: église, English translations: church
+French word: voyageons, English translations: travel, are traveling
+French word: voyagent, English translations: travel, are traveling
+French word: aux, English translations: to the, with, of the, in the, at the, at, about, to, of, on the, in
+French word: plage, English translations: beach
+French word: visites, English translations: tours, visits, visit
+French word: voyager, English translations: traveling, travel, to travel, traveled
+French word: musée, English translations: museum
+French word: visitons, English translations: visit, are visiting, let's visit
+French word: voyages, English translations: travel, trips, are traveling, traveled
+French word: vacances, English translations: vacation, vacations, holidays
+French word: vont, English translations: are going to, are going, going, suit, go, will
+French word: voyage, English translations: am traveling, trip, travel, travels, is traveling
+French word: visite, English translations: am visiting, is visiting, tour, visits, visit, visited
+French word: Mexique, English translations: Mexico
+French word: pays, English translations: country, countries, land, village, world
+French word: Japon, English translations: Japan
+French word: Brésil, English translations: Brazil
+French word: cinq, English translations: five, 5
+French word: aujourd'hui, English translations: today
+French word: fermé, English translations: closed, closed up, closed off, brought [something] to a close, clam (past) up, clam up, clenched, closed down, did up, done up, drawn, drew, fastened, hardened, high, made, sealed, shut, switched off, turned off
+French word: quatre, English translations: four
+French word: ville, English translations: city, town
+French word: vélo, English translations: bike
+French word: plante, English translations: plants, is planting, plant
+French word: vert, English translations: green
+French word: ouvert, English translations: open, opened, initiated, on, opening, parted
+French word: hôpital, English translations: hospital
+French word: pharmacie, English translations: pharmacy
+French word: station, English translations: station
+French word: supermarché, English translations: supermarket
+French word: petites, English translations: short, small, little
+French word: petite, English translations: little, short, small
+French word: universités, English translations: universities, colleges, higher education
+French word: grandes, English translations: great, tall, big
+French word: grande, English translations: large, great, tall, big
+French word: écoles, English translations: schools
+French word: grand, English translations: big, great, tall, elder, grand, large, long, major, senior, wide
+French word: petit, English translations: small, little, lesser known, light, low, low-ranking, minor, modest, petty
+French word: petits, English translations: little, babies, short, small, youngest
+French word: grands, English translations: tall, big, great
+French word: magasin, English translations: store
+French word: addition, English translations: check, accumulation, addition, bill, sum
+French word: fromage, English translations: cheese
+French word: dessert, English translations: dessert
+French word: salade, English translations: salad
+French word: pain, English translations: bread
+French word: rend, English translations: is making, makes, making, make
+French word: prend, English translations: are having, getting, takes, take, get, gets, is having, am taking, is taking, has, make
+French word: bouteille, English translations: bottle
+French word: sandwich, English translations: sandwich
+French word: d'eau, English translations: water
+French word: verre, English translations: drink, glass
+French word: vin, English translations: wine
+French word: bière, English translations: beer
+French word: tasse, English translations: cup, mug
+French word: aussi, English translations: too, as, also, so, such, such a
+French word: jus, English translations: juice, fruit juice, gravy
+French word: voudrais, English translations: would like, would want
+French word: café, English translations: coffee shop, coffee, café
+French word: serveur, English translations: server, waiter
+French word: serveuses, English translations: waitresses, servers
+French word: thé, English translations: tea
+French word: moi, English translations: me
+French word: toilettes, English translations: restroom
+French word: pour, English translations: for, to, in order to, on, so
+French word: restaurants, English translations: restaurants, diners
+French word: table, English translations: table
+French word: personne, English translations: no one, anyone, nobody, person, anybody
+French word: amusantes, English translations: funny
+French word: intelligents, English translations: smart, intelligent
+French word: contentes, English translations: happy, pleased
+French word: intelligentes, English translations: intelligent, smart
+French word: amusants, English translations: funny
+French word: contents, English translations: pleased with, happy, glad, pleased
+French word: américains, English translations: American
+French word: françaises, English translations: French, French women
+French word: anglaises, English translations: English
+French word: mexicaines, English translations: Mexican
+French word: mexicains, English translations: Mexican
+French word: américaines, English translations: American
+French word: amusant, English translations: funny
+French word: intelligente, English translations: intelligent, clever, smart
+French word: contente, English translations: happy, glad, pleased
+French word: amusante, English translations: funny
+French word: content, English translations: happy, glad, pleased, happier, satisfied
+French word: intelligent, English translations: intelligent, smart
+French word: ses, English translations: her, one's, his, its
+French word: ce, English translations: it, this, that, they, he, she
+French word: ce sont, English translations: they are, those are, these are, are these, they're
+French word: bébé, English translations: baby
+French word: aiment, English translations: like, love, enjoy
+French word: tes, English translations: your
+French word: mes, English translations: my
+French word: parents, English translations: parents, relatives, folks, folks'
+French word: sœurs, English translations: sisters, sisters'
+French word: frères, English translations: brothers, brothers'
+French word: voitures, English translations: cars
+French word: pizzas, English translations: pizzas, pizza
+French word: chiens, English translations: dogs, dogs'
+French word: journalistes, English translations: journalists
+French word: ont, English translations: get, have
+French word: trains, English translations: trains
+French word: étudiants, English translations: students
+French word: étudient, English translations: study, are studying
+French word: habitent, English translations: live, are living
+French word: professeurs, English translations: professors, teachers
+French word: étudiantes, English translations: students
+French word: travaillent, English translations: work, are working
+French word: hommes, English translations: men
+French word: oranges, English translations: oranges
+French word: mangent, English translations: are eating, eat
+French word: parlent, English translations: are talking, speak, talking, are speaking, talk, speaking
+French word: femmes, English translations: women
+French word: elles, English translations: hers, they, them
+French word: sont, English translations: feel, are, is
+French word: ils, English translations: they
+French word: les, English translations: your, the, they, their, them, our, my
+French word: garçons, English translations: boys
+French word: chats, English translations: cats, cats'
+French word: filles, English translations: girls
+French word: deux, English translations: two
+French word: croissants, English translations: croissants
+French word: trois, English translations: three, 3
+French word: cinéma, English translations: movie theater, cinema, movies, film industry
+French word: bus, English translations: bus, buses
+French word: aimes, English translations: like, love, enjoy
+French word: zoo, English translations: zoo
+French word: parc, English translations: park
+French word: travail, English translations: work, job
+French word: boulangerie, English translations: bakery, bakery trade, baker's
+French word: métro, English translations: subway, underground, underground train
+French word: sommes, English translations: are
+French word: allons, English translations: going, are going, go, let's go, are going to
+French word: banque, English translations: bank
+French word: école, English translations: school, education system, training
+French word: veux, English translations: want
+French word: eux, English translations: themselves, them, they
+French word: livre, English translations: book, pound
+French word: musique, English translations: music
+French word: chocolat, English translations: chocolate, chocolate-brown (coloured)
+French word: aime, English translations: loves, likes, like, love, enjoy, enjoys
+French word: aimons, English translations: like, love
+French word: lire, English translations: to read
+French word: habitons, English translations: live, are living
+French word: mangeons, English translations: eat, eating, are eating, let's eat
+French word: avons, English translations: get, have
+French word: nous, English translations: we, us, our, ourselves
+French word: voulons, English translations: want, want to
+French word: d', English translations: of, any, with, than, 's, about, to, some, from, in, for
+French word: jardin, English translations: garden, yard, park
+French word: appartement, English translations: apartment, flat
+French word: maison, English translations: house, home, firm, household
+French word: dans, English translations: in, to, of, from, inside, into, on, within
+French word: veut, English translations: wants, want
+French word: grand-mère, English translations: grandmother
+French word: grand-père, English translations: grandfather
+French word: chouette, English translations: owl
+French word: animal de compagnie, English translations: pet
+French word: mari, English translations: husband
+French word: fils, English translations: son, sons, cords, filaments, strings, threads, wires, yarn
+French word: de, English translations: of, to, in, by, for, from, than, with
+French word: ma, English translations: my
+French word: sœur, English translations: sister
+French word: mère, English translations: mother, mom
+French word: sa, English translations: her, his, your, its, their
+French word: famille, English translations: family, body, people
+French word: ta, English translations: your, tone (of voice), key, pitch, pitch pipe, shade, voice
+French word: son, English translations: her, one's, sound, his, its
+French word: mon, English translations: my
+French word: frère, English translations: brother
+French word: père, English translations: father, dad, sire, male parent
+French word: ère, English translations: age, era
+French word: ton, English translations: your
+French word: as, English translations: have, feel
+French word: passeport, English translations: passport
+French word: billet d'avion, English translations: plane ticket
+French word: billet, English translations: ticket, bill
+French word: j'ai, English translations: I'm, I've, i
+French word: a, English translations: get, gets, have, feels, has, went
+French word: taxi, English translations: taxi
+French word: où, English translations: where
+French word: s'il vous plaît, English translations: please
+French word: valise, English translations: suitcase
+French word: prends, English translations: am getting, are having, getting, are taking, make, take, get, taking, am taking, am having, have, eat, having
+French word: voiture, English translations: car
+French word: va, English translations: fits, suit, go, will, runs, is going, goes, suits, does
+French word: train, English translations: train
+French word: hôtel, English translations: hotel
+French word: aéroport, English translations: airport
+French word: vas, English translations: going, are going to, go, are going
+French word: avion, English translations: plane, aeroplane, airplane, aircraft
+French word: l', English translations: with, her, the, him, it, his, that
+French word: restaurant, English translations: restaurant
+French word: le, English translations: your, her, the, him, their, it, on, his, on the, my, one
+French word: vais, English translations: going, am going, go, am going to
+French word: la, English translations: the, it, she, her
+French word: gare, English translations: train station, (railway) station
+French word: université, English translations: university, college, higher education
+French word: ha, English translations: hectare
+French word: professeur, English translations: teacher, professor, lecturer
+French word: Italie, English translations: Italy
+French word: journaliste, English translations: journalist, reporter
+French word: on, English translations: we, one, they, someone, us, anyone, you
+French word: étudies, English translations: study, are studying, explore
+French word: aille, English translations: am going, go, is going, goes, going
+French word: non, English translations: no, not
+French word: Espagne, English translations: Spain
+French word: Angleterre, English translations: England
+French word: en, English translations: in, to, of, about it, as, by, during, from it, from there, into, it, made of, of it, some, some (of it), them, while
+French word: avec, English translations: with, in
+French word: eu, English translations: got, gotten, had, get
+French word: travailles, English translations: work, are working
+French word: étudiant, English translations: student
+French word: ici, English translations: here
+French word: étudiante, English translations: student, a student
+French word: travaille, English translations: am working, work, works, is working, working
+French word: j', English translations: I
+French word: habites, English translations: live, are living in, live in
+French word: habite, English translations: live, is living, lives, am living
+French word: étudie, English translations: is studying, studies, study, am studying, researches
+French word: die, English translations: Die
+French word: à, English translations: to, at, in, on, see you, through, till, until, with
+French word: américaine, English translations: American
+French word: mexicain, English translations: Mexican
+French word: mexicaine, English translations: Mexican
+French word: américain, English translations: American
+French word: espagnol, English translations: Spanish
+French word: espagnole, English translations: Spanish
+French word: parles, English translations: speak, are talking, are speaking, talk
+French word: comment tu t'appelles, English translations: what is your name
+French word: excuse-moi, English translations: excuse me
+French word: française, English translations: French
+French word: anglaise, English translations: English
+French word: s'appelle, English translations: is named, name is, is called
+French word: il, English translations: he, it
+French word: elle, English translations: she, her, it
+French word: an, English translations: year
+French word: anglais, English translations: English, English people, Englishman
+French word: parle, English translations: talking, am talking, is talking, speak, talk, is speaking, am speaking, speaks, talks, are talking
+French word: ai, English translations: have, feel
+French word: français, English translations: French, Frenchman, Frenchmen
+French word: est, English translations: is, east, feel, 's, feels, are, has been
+French word: bonne nuit, English translations: good night
+French word: à demain, English translations: see you tomorrow
+French word: bonne soirée, English translations: have a good evening
+French word: eau, English translations: water
+French word: beaucoup, English translations: a lot, much, very much
+French word: au, English translations: to the, to, about the, for the, in the, at the, from the, on the, with, her, made of, at, his, in, into
+French word: bonne journée, English translations: have a good day, have a nice day
+French word: enchanté, English translations: nice to meet you
+French word: au revoir, English translations: goodbye
+French word: à bientôt, English translations: see you soon
+French word: bienvenue, English translations: welcome
+French word: toi, English translations: you, yourself, yourselves
+French word: salut, English translations: hi, hey
+French word: bonsoir, English translations: good evening
+French word: ci, English translations: this
+French word: è, English translations: è
+French word: très, English translations: very, extremely
+French word: merci, English translations: thank you, thanks
+French word: bien, English translations: well, good, fine, much, okay
+French word: bonjour, English translations: hello, good morning, good afternoon, good day
+French word: comment, English translations: how
+French word: ou, English translations: or, either
+French word: ça, English translations: this, that, it, it'll
+French word: oui, English translations: yes
+French word: ça va, English translations: how are you?, it's going to, I am fine, how's it going
+French word: pizza, English translations: pizza
+French word: croissant, English translations: croissant
+French word: manges, English translations: are eating, eat, eating
+French word: orange, English translations: orange
+French word: mange, English translations: eats, am eating, is eating, have, eat, has
+French word: tu, English translations: you, you'll
+French word: cheval, English translations: horse
+French word: chien, English translations: dog
+French word: c'est, English translations: she is, it is, this is, he is, it's, that's, he's, she's
+French word: es, English translations: feel, are, have been
+French word: fille, English translations: girl, daughter
+French word: je, English translations: I, me
+French word: suis, English translations: am, feel, follow, have been, am following, following
+French word: femme, English translations: woman, wife
+French word: une, English translations: an, a, one
+French word: garçon, English translations: boy
+French word: et, English translations: and
+French word: homme, English translations: man
+French word: chat, English translations: cat
+French word: un, English translations: a, an, one
