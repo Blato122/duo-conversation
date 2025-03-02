@@ -61,8 +61,6 @@ def get_skills():
         return skill_ids_unique
         # pozbierac te id z ukonczonych skilli
         # potem jako payload przeslac je do
-
-        # sobota - cos tam, sprzatanie, film jakis, MAS/DUO PROGRAM COS
     else:
         print(f"GET request failed with status code {response.status_code}")
         print(response)

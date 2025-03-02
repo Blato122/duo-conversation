@@ -1,3 +1,23 @@
+French word: Allemagne, English translations: Germany
+French word: savons, English translations: know, know how to
+French word: Australie, English translations: Australia
+French word: savent, English translations: know, know how to, can
+French word: savez, English translations: know, know how to
+French word: aime bien, English translations: like, likes
+French word: sait, English translations: knows, knows how, know, can
+French word: restez, English translations: stay, are staying
+French word: rencontrer, English translations: to meet
+French word: t', English translations: you, yourself, to you
+French word: m', English translations: me, to me, love me, for me, myself, from me
+French word: appeler, English translations: to call, call, calling, give a call
+French word: anniversaire, English translations: birthday, anniversary
+French word: petit ami, English translations: boyfriend
+French word: on est, English translations: we are, we're, it's
+French word: petite amie, English translations: girlfriend, sweetheart
+French word: voit, English translations: see, sees, is seeing, check
+French word: voyons, English translations: are seeing, see, let's see
+French word: voyez, English translations: are seeing, see, check
+French word: écoutez, English translations: are listening to, listen to, listen
 French word: connaissent, English translations: know
 French word: genre, English translations: kind, gender, type, genre, sort
 French word: sûr, English translations: safe, sure
@@ -978,9 +998,3 @@ French word: fille, English translations: girl, daughter
 French word: je, English translations: I, me
 French word: suis, English translations: am, feel, follow, have been, am following, following
 French word: femme, English translations: woman, wife
-French word: une, English translations: an, a, one
-French word: garçon, English translations: boy
-French word: et, English translations: and
-French word: homme, English translations: man
-French word: chat, English translations: cat
-French word: un, English translations: a, an, one
