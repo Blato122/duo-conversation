@@ -56,11 +56,7 @@ def get_skills():
         
         skill_ids_unique = list(dict.fromkeys(skill_ids))
         print(f"Skill IDs count: {len(skill_ids_unique)}")
-        # for skill_id in skill_ids_unique:
-        #     print(skill_id)
         return skill_ids_unique
-        # pozbierac te id z ukonczonych skilli
-        # potem jako payload przeslac je do
     else:
         print(f"GET request failed with status code {response.status_code}")
         print(response)
@@ -79,7 +75,6 @@ def get_lexeme_count():
     payload = {
         "progressedSkills": create_progressed_skills(get_skills())
     }
-    # print(payload)
 
     response = requests.post(COUNT_URL, headers=HEADERS, params={}, json=payload)
     

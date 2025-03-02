@@ -37,11 +37,24 @@ The user will have a conversation with you in French in order to practice this l
 words from the given word list in your replies. Make sure that your replies are gramatically and semantically
 correct. You can use conjugations of verbs even if they are not on the list.
 
-Keep your replies concise, 1-2 sentences long.
-{EXPLORE if explore else ""}
+Keep your replies concise, 1-2 sentences long. Under the French sentence, write its English translation.
 """
+# But before all that, you should also point out and fix mistakes in user's message.
+# For example:
+# <user>
+# C'est un bonne idee! Je pense que nous pouvons allons a la boulangerie a cote de cette hotel
+# </user>
 
-# niech poprawia moje bledy tez!
+# <assistant>
+# Mistakes: 
+# un -> une (because the noun "idee" is feminine and not masculine)
+# allons -> allez (because the verb following "pouvons" must be an infinitive)
+
+# C'est une bonne idée ! Nous pouvons y aller.
+# That's a great idea! We can go there.
+# </assistant>
+# {EXPLORE if explore else ""}
+# """
 
 def answer(user_message):
     response = ollama.chat(
@@ -52,10 +65,9 @@ def answer(user_message):
             }]
     )
 
-    print(response['message'])
-    return response['message']
-
+    message = response['message']['content'].split("</think>")[1].lstrip()
+    return message
 
 if __name__ == "__main__":
-    answer("C'est une bonne idee! Je pense que nous pouvons aller a la boulangerie a cote de cette hotel")
-    # potem dodac kontekst poprzednich odpowiedzi!
+    ans = answer("Salut! Comment ca va?")
+    print(ans)

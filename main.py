@@ -1,9 +1,12 @@
 import get_data, llmcall
 
+context = []
+
 if __name__ == "__main__":
-    # dok
     get_data.update()
     while True:
         user_message = input()
-        assistant_message = llmcall.answer(user_message)
+        context.append({"role": "user", "content": user_message})
+        assistant_message = llmcall.answer(context)
+        context.append({"role": "assistant", "content": assistant_message})
         print(assistant_message)
